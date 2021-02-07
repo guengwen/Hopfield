@@ -23,3 +23,16 @@ C:\Users\kits\Desktop\Demo\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.csproj.
 C:\Users\kits\Desktop\Demo\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.csproj.CopyComplete
 C:\Users\kits\Desktop\Demo\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.exe
 C:\Users\kits\Desktop\Demo\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.pdb
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\bin\Debug\IS2HopfieldNetwork.exe.config
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\bin\Debug\IS2HopfieldNetwork.exe
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\bin\Debug\IS2HopfieldNetwork.pdb
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\bin\Debug\HopfieldNeuralNetwork.xml
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.Form1.resources
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.exe
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.pdb
+C:\Users\Toshiba\Desktop\School\IS2\HopField\IS2Hopfield-main\obj\Debug\IS2HopfieldNetwork.Letters.resources
